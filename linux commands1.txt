@@ -1,0 +1,8 @@
+command name:ls
+options:
+ls -a              In Linux, hidden files start with . (dot) symbol and they are not visible in the regular directory. The (ls -a) command will enlist the whole list of the current directory including the hidden files.
+ls -l               It will show the list in a long list format.
+ls -lh             This command will show you the file sizes in human readable format. Size of the file is very difficult to read when displayed in terms of byte. The (ls -lh)command will give you the data in terms of Mb, Gb, Tb, etc.
+ls -lhS	     If you want to display your files in descending order (highest at the top) according to their size, then you can use (ls -lhS) command.
+ls -p	It is used to identify the directory easily by marking the directories with a slash (/) line sign.
+ls --version	It checks the version of ls command.
